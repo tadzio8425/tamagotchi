@@ -1,0 +1,16 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "*.ts": "typescript",
+        "i2c.h": "c",
+        "esp_lcd_panel_commands.h": "c",
+        "mpu6050.h": "c",
+        "*.tcc": "c",
+        "cmath": "c",
+        "random": "c",
+        "numbers": "c",
+        "esp_lcd_panel_io.h": "c",
+        "task.h": "c"
+    },
+    "idf.flashType": "UART"
+}
